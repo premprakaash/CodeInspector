@@ -1,0 +1,12 @@
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.csproj.AssemblyReference.cache
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.AssemblyInfoInputs.cache
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.AssemblyInfo.cs
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.csproj.CoreCompileInputs.cache
+D:\project\future\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.deps.json
+D:\project\future\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.dll
+D:\project\future\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.pdb
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.dll
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\refint\CodeInspector.Analyzers.dll
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.pdb
+D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\ref\CodeInspector.Analyzers.dll

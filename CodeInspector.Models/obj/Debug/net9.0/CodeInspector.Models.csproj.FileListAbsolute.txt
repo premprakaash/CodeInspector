@@ -1,0 +1,11 @@
+D:\project\future\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.deps.json
+D:\project\future\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.dll
+D:\project\future\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.pdb
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.AssemblyInfoInputs.cache
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.AssemblyInfo.cs
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.csproj.CoreCompileInputs.cache
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.dll
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\refint\CodeInspector.Models.dll
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.pdb
+D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\ref\CodeInspector.Models.dll

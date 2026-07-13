@@ -1,0 +1,12 @@
+{
+  "LongMethod": {
+    "MaxStatements": 20,
+    "MaxLines": 50
+  },
+  "MissingTryCatch": {
+    "Enabled": true
+  },
+  "ThreadSleep": {
+    "Enabled": true
+  }
+}

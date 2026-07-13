@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <Compile Remove="bin\**" />
+    <Compile Remove="obj\**" />
+    <EmbeddedResource Remove="bin\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="bin\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeInspector.Models\CodeInspector.Models.csproj" />
+    <ProjectReference Include="..\CodeInspector.Core\CodeInspector.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Docker\" />
+    <Folder Include="Kubernetes\" />
+    <Folder Include="NuGet\" />
+    <Folder Include="Security\" />
+    <Folder Include="Services\" />
+    <Folder Include="SQL\" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
