@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CodeInspector.Models\CodeInspector.Models.csproj" />
+    <ProjectReference Include="..\CodeInspector.Project\CodeInspector.Project.csproj" />
   </ItemGroup>
 
   <ItemGroup>

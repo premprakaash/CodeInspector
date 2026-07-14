@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "CodeInspector.Report/1.0.0": {
+        "dependencies": {
+          "CodeInspector.Models": "1.0.0"
+        },
         "runtime": {
           "CodeInspector.Report.dll": {}
+        }
+      },
+      "CodeInspector.Models/1.0.0": {
+        "runtime": {
+          "CodeInspector.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "CodeInspector.Report/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeInspector.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

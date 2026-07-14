@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CodeInspector.Project.Models;
+﻿namespace CodeInspector.Project.Models;
 
 public class ProjectFile
 {
@@ -15,4 +13,12 @@ public class ProjectFile
     public long Size { get; set; }
 
     public DateTime LastModified { get; set; }
+
+    public string Hash { get; set; } = "";
+
+    public bool IsGenerated { get; set; }
+
+    public bool IsTestProject { get; set; }
+
+    public bool IsHidden { get; set; }
 }

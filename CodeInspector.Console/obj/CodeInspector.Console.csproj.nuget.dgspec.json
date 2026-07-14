@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\future\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj": {}
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj": {}
   },
   "projects": {
-    "D:\\project\\future\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj": {
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\future\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj",
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj",
         "projectName": "CodeInspector.Console",
-        "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj",
-        "packagesPath": "C:\\Users\\Premprakaash.m\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Console\\obj\\",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Console\\CodeInspector.Console.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Premprakaash.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
-                "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj"
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj"
               },
-              "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
-                "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj"
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\CodeInspector.Fix.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\CodeInspector.Fix.csproj"
+              },
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj"
+              },
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\CodeInspector.Report.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\CodeInspector.Report.csproj"
               }
             }
           }
@@ -72,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
         "projectName": "CodeInspector.Core",
-        "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
-        "packagesPath": "C:\\Users\\Premprakaash.m\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\obj\\",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Premprakaash.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,14 +105,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
-                "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+              },
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj"
               }
             }
           }
@@ -161,24 +172,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\CodeInspector.Fix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj",
-        "projectName": "CodeInspector.Models",
-        "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj",
-        "packagesPath": "C:\\Users\\Premprakaash.m\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\obj\\",
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\CodeInspector.Fix.csproj",
+        "projectName": "CodeInspector.Fix",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\CodeInspector.Fix.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Fix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Premprakaash.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,6 +198,86 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj"
+              },
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj",
+        "projectName": "CodeInspector.Models",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -226,24 +317,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj",
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj",
         "projectName": "CodeInspector.Project",
-        "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj",
-        "packagesPath": "C:\\Users\\Premprakaash.m\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Project\\obj\\",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Premprakaash.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,17 +343,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj": {
-                "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj"
-              },
-              "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
-                "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
               }
             }
           }
@@ -298,7 +387,77 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\CodeInspector.Report.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\CodeInspector.Report.csproj",
+        "projectName": "CodeInspector.Report",
+        "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\CodeInspector.Report.csproj",
+        "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Report\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+                "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

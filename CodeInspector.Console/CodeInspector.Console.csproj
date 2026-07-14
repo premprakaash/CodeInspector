@@ -2,7 +2,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CodeInspector.Core\CodeInspector.Core.csproj" />
+    <ProjectReference Include="..\CodeInspector.Fix\CodeInspector.Fix.csproj" />
     <ProjectReference Include="..\CodeInspector.Project\CodeInspector.Project.csproj" />
+    <ProjectReference Include="..\CodeInspector.Report\CodeInspector.Report.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

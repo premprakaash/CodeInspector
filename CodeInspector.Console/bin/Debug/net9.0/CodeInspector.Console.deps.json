@@ -9,7 +9,9 @@
       "CodeInspector.Console/1.0.0": {
         "dependencies": {
           "CodeInspector.Core": "1.0.0",
-          "CodeInspector.Project": "1.0.0"
+          "CodeInspector.Fix": "1.0.0",
+          "CodeInspector.Project": "1.0.0",
+          "CodeInspector.Report": "1.0.0"
         },
         "runtime": {
           "CodeInspector.Console.dll": {}
@@ -510,12 +512,26 @@
       "CodeInspector.Core/1.0.0": {
         "dependencies": {
           "CodeInspector.Models": "1.0.0",
+          "CodeInspector.Project": "1.0.0",
           "Microsoft.Build.Locator": "1.11.2",
           "Microsoft.CodeAnalysis.CSharp.Workspaces": "5.6.0",
           "Microsoft.CodeAnalysis.Workspaces.MSBuild": "5.6.0"
         },
         "runtime": {
           "CodeInspector.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CodeInspector.Fix/1.0.0": {
+        "dependencies": {
+          "CodeInspector.Core": "1.0.0",
+          "CodeInspector.Models": "1.0.0",
+          "Microsoft.CodeAnalysis.CSharp": "5.6.0"
+        },
+        "runtime": {
+          "CodeInspector.Fix.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -531,11 +547,21 @@
       },
       "CodeInspector.Project/1.0.0": {
         "dependencies": {
-          "CodeInspector.Core": "1.0.0",
           "CodeInspector.Models": "1.0.0"
         },
         "runtime": {
           "CodeInspector.Project.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CodeInspector.Report/1.0.0": {
+        "dependencies": {
+          "CodeInspector.Models": "1.0.0"
+        },
+        "runtime": {
+          "CodeInspector.Report.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -736,12 +762,22 @@
       "serviceable": false,
       "sha512": ""
     },
+    "CodeInspector.Fix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "CodeInspector.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "CodeInspector.Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeInspector.Report/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

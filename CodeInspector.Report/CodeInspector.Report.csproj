@@ -6,4 +6,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Assets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeInspector.Models\CodeInspector.Models.csproj" />
+  </ItemGroup>
+
 </Project>

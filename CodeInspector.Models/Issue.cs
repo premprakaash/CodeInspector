@@ -1,4 +1,6 @@
-﻿namespace CodeInspector.Models;
+﻿
+
+namespace CodeInspector.Models;
 
 public class Issue
 {
@@ -22,4 +24,6 @@ public class Issue
 
     public string Recommendation { get; set; } = "";
     public CodeFix? Fix { get; set; }
+
+   
 }

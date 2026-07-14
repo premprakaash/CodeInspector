@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeInspector.Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4698a65461adb1b25f5af8b9afb2216fbc29c0cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeInspector.Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeInspector.Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

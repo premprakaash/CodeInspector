@@ -10,3 +10,16 @@ D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeIns
 D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\refint\CodeInspector.Analyzers.dll
 D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.pdb
 D:\project\future\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\ref\CodeInspector.Analyzers.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.deps.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\bin\Debug\net9.0\CodeInspector.Analyzers.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.csproj.AssemblyReference.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.AssemblyInfoInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.AssemblyInfo.cs
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.csproj.CoreCompileInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.sourcelink.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\refint\CodeInspector.Analyzers.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\CodeInspector.Analyzers.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Analyzers\obj\Debug\net9.0\ref\CodeInspector.Analyzers.dll

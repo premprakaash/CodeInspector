@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInspector.Report", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInspector.Project", "CodeInspector.Project\CodeInspector.Project.csproj", "{018D30F5-6288-444E-9973-43E891A5361A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeInspector.Fix", "CodeInspector.Fix\CodeInspector.Fix.csproj", "{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{018D30F5-6288-444E-9973-43E891A5361A}.Release|x64.Build.0 = Release|Any CPU
 		{018D30F5-6288-444E-9973-43E891A5361A}.Release|x86.ActiveCfg = Release|Any CPU
 		{018D30F5-6288-444E-9973-43E891A5361A}.Release|x86.Build.0 = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|x64.Build.0 = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Debug|x86.Build.0 = Debug|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|x64.ActiveCfg = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|x64.Build.0 = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|x86.ActiveCfg = Release|Any CPU
+		{8A074DF0-79C8-47BD-9398-E61D1A8E9AEB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -836,6 +836,19 @@
         "runtime": {
           "bin/placeholder/CodeInspector.Models.dll": {}
         }
+      },
+      "CodeInspector.Project/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CodeInspector.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CodeInspector.Project.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodeInspector.Project.dll": {}
+        }
       }
     }
   },
@@ -1898,11 +1911,17 @@
       "type": "project",
       "path": "../CodeInspector.Models/CodeInspector.Models.csproj",
       "msbuildProject": "../CodeInspector.Models/CodeInspector.Models.csproj"
+    },
+    "CodeInspector.Project/1.0.0": {
+      "type": "project",
+      "path": "../CodeInspector.Project/CodeInspector.Project.csproj",
+      "msbuildProject": "../CodeInspector.Project/CodeInspector.Project.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "CodeInspector.Models >= 1.0.0",
+      "CodeInspector.Project >= 1.0.0",
       "Microsoft.Build.Framework >= 17.11.48",
       "Microsoft.Build.Locator >= 1.11.2",
       "Microsoft.CodeAnalysis.CSharp.Workspaces >= 5.6.0",
@@ -1910,23 +1929,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Premprakaash.m\\.nuget\\packages\\": {},
+    "C:\\Users\\Prem\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
       "projectName": "CodeInspector.Core",
-      "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
-      "packagesPath": "C:\\Users\\Premprakaash.m\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Core\\obj\\",
+      "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\CodeInspector.Core.csproj",
+      "packagesPath": "C:\\Users\\Prem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Premprakaash.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Prem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1935,14 +1954,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
-              "projectPath": "D:\\project\\future\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+            "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj": {
+              "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Models\\CodeInspector.Models.csproj"
+            },
+            "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj": {
+              "projectPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Project\\CodeInspector.Project.csproj"
             }
           }
         }
@@ -1998,7 +2021,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.315/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,3 +9,15 @@ D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspec
 D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\refint\CodeInspector.Models.dll
 D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.pdb
 D:\project\future\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\ref\CodeInspector.Models.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.deps.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\bin\Debug\net9.0\CodeInspector.Models.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.AssemblyInfoInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.AssemblyInfo.cs
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.csproj.CoreCompileInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.sourcelink.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\refint\CodeInspector.Models.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\CodeInspector.Models.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Models\obj\Debug\net9.0\ref\CodeInspector.Models.dll
