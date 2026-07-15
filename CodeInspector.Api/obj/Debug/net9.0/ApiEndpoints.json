@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "CodeInspector.Api.Controllers.AuthController",
+    "Method": "Callback",
+    "RelativePath": "api/auth/github/callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CodeInspector.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/github/login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
