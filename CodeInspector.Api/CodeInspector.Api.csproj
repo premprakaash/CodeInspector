@@ -7,15 +7,24 @@
   </PropertyGroup>
 
   <ItemGroup>
-   
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="AspNet.Security.OAuth.GitHub" Version="9.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.8">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.12.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.2.0" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CodeInspector.Application\CodeInspector.Application.csproj" />
+    <ProjectReference Include="..\CodeInspector.Data\CodeInspector.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Workspace\Repositories\" />
   </ItemGroup>
 
 </Project>

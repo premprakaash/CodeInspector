@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using CodeInspector.Data.Extensions;
+using CodeInspector.Application.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddScoped<JwtService>();
 builder.Services.AddScoped<GitHubService>();
+builder.Services.AddCodeInspectorData(builder.Configuration);
+builder.Services.AddApplication();
+
 
 #endregion
 

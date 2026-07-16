@@ -3,24 +3,155 @@
   "WorkspaceRootPath": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\services\\gitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\services\\gitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\codeinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\codeinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\interfaces\\igitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\interfaces\\igitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\codeinspector.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\codeinspector.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\dtos\\githubrepositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\dtos\\githubrepositorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\codeinspector.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\codeinspector.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.application\\codeinspector.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{69DEEE9C-9B0E-482C-85E4-0BD90D88F964}|CodeInspector.Application\\CodeInspector.Application.csproj|solutionrelative:codeinspector.application\\codeinspector.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\unitofwork\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\codeinspector.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\codeinspector.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\configurations\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\configurations\\repositoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\codeinspector.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\codeinspector.data.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\configurations\\reportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\configurations\\reportconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\configurations\\issueconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\configurations\\issueconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\configurations\\scanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\configurations\\scanconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\entities\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\entities\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\entities\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\entities\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85392837-7BB5-4F44-80F9-3AFEEFB5B349}|CodeInspector.Data\\CodeInspector.Data.csproj|solutionrelative:codeinspector.data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\codeinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|solutionrelative:codeinspector.api\\codeinspector.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CB2E571-5347-436C-9CDA-0DA4E4B50E89}|CodeInspector.Api\\CodeInspector.Api.csproj|c:\\users\\prem\\source\\repos\\premprakaash\\codeinspector\\codeinspector.api\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,7 +184,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,7 +204,453 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\GitService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Services\\GitService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\GitService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Services\\GitService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:05:59.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:57:00.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CodeInspector.Application",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\CodeInspector.Application.csproj",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\CodeInspector.Application.csproj",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\CodeInspector.Application.csproj",
+              "RelativeToolTip": "CodeInspector.Application\\CodeInspector.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T01:56:45.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:55:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:55:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "CodeInspector.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:55:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CodeInspector.Application",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\CodeInspector.Application.csproj",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\CodeInspector.Application.csproj",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\CodeInspector.Application.csproj",
+              "RelativeToolTip": "CodeInspector.Application\\CodeInspector.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T01:54:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:44:48.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:44:34.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeInspector.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
+              "RelativeDocumentMoniker": "CodeInspector.Api\\CodeInspector.Api.csproj",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
+              "RelativeToolTip": "CodeInspector.Api\\CodeInspector.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-15T02:32:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeInspector.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\appsettings.json",
+              "RelativeToolTip": "CodeInspector.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-15T02:38:15.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGitService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IGitService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Interfaces\\IGitService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IGitService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Interfaces\\IGitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:06:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Interfaces\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Interfaces\\IGitHubService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Interfaces\\IGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:01:18.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanController.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Controllers\\ScanController.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Api\\Controllers\\ScanController.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Controllers\\ScanController.cs",
+              "RelativeToolTip": "CodeInspector.Api\\Controllers\\ScanController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:04:48.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\Services\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\Services\\GitHubService.cs",
+              "RelativeToolTip": "CodeInspector.Application\\Services\\GitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:01:33.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GitHubRepositoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\DTOs\\GitHubRepositoryDto.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Application\\DTOs\\GitHubRepositoryDto.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Application\\DTOs\\GitHubRepositoryDto.cs",
+              "RelativeToolTip": "CodeInspector.Application\\DTOs\\GitHubRepositoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T02:00:21.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:45:01.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:44:18.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Program.cs",
+              "RelativeToolTip": "CodeInspector.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T02:41:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "CodeInspector.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:47:11.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CodeInspector.Data",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\CodeInspector.Data.csproj",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\CodeInspector.Data.csproj",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\CodeInspector.Data.csproj",
+              "RelativeToolTip": "CodeInspector.Data\\CodeInspector.Data.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T00:12:01.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\UnitOfWork\\EfUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\UnitOfWork\\EfUnitOfWork.cs",
+              "RelativeToolTip": "CodeInspector.Data\\UnitOfWork\\EfUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T01:47:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJ4JAAAAAAAAAAAkwKsJAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-07-16T00:11:48.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:05:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CodeInspector.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\CodeInspector.Data.csproj",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\CodeInspector.Data.csproj",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\CodeInspector.Data.csproj",
+              "RelativeToolTip": "CodeInspector.Data\\CodeInspector.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-16T00:00:00.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\ReportConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Configurations\\ReportConfiguration.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\ReportConfiguration.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Configurations\\ReportConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:05:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IssueConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\IssueConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Configurations\\IssueConfiguration.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\IssueConfiguration.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Configurations\\IssueConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:05:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScanConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\ScanConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Configurations\\ScanConfiguration.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\ScanConfiguration.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Configurations\\ScanConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:05:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RepositoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\RepositoryConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Configurations\\RepositoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\RepositoryConfiguration.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Configurations\\RepositoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:04:43.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:03:51.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Entities\\Report.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Report.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Entities\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:03:22.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Issue.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Entities\\Issue.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Issue.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Entities\\Issue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:03:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Scan.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Entities\\Scan.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Scan.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Entities\\Scan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:02:35.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Repository.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Entities\\Repository.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\Repository.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Entities\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:02:16.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Entities\\User.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:01:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CodeInspector.Data\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Data\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CodeInspector.Data\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T00:00:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Models\\LoginResponse.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Models\\LoginResponse.cs",
@@ -81,12 +658,11 @@
               "RelativeToolTip": "CodeInspector.Api\\Models\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:59:33.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:59:33.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 41,
               "Title": "JwtService.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Services\\JwtService.cs",
@@ -94,37 +670,22 @@
               "RelativeToolTip": "CodeInspector.Api\\Services\\JwtService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAQwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:58:37.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:58:37.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Program.cs",
-              "RelativeDocumentMoniker": "CodeInspector.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Program.cs",
-              "RelativeToolTip": "CodeInspector.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:41:51.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 37,
               "Title": "CodeInspector.Api",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
               "RelativeDocumentMoniker": "CodeInspector.Api\\CodeInspector.Api.csproj",
               "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
               "RelativeToolTip": "CodeInspector.Api\\CodeInspector.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-15T02:40:34.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:40:34.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 42,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -132,25 +693,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.315\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AgIAAJUAAAAAAAAAAAD4v6oAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-07-15T02:40:29.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:40:29.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "CodeInspector.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\appsettings.json",
-              "RelativeToolTip": "CodeInspector.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-15T02:38:15.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 43,
               "Title": "JwtResponse.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Models\\JwtResponse.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Models\\JwtResponse.cs",
@@ -158,12 +705,11 @@
               "RelativeToolTip": "CodeInspector.Api\\Models\\JwtResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:37:18.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:37:18.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 40,
               "Title": "GitHubUser.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Models\\GitHubUser.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Models\\GitHubUser.cs",
@@ -171,12 +717,11 @@
               "RelativeToolTip": "CodeInspector.Api\\Models\\GitHubUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:37:00.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:37:00.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 39,
               "Title": "GitHubService.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Services\\GitHubService.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Services\\GitHubService.cs",
@@ -184,33 +729,19 @@
               "RelativeToolTip": "CodeInspector.Api\\Services\\GitHubService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T02:36:47.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-15T02:36:47.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 36,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "CodeInspector.Api\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "CodeInspector.Api\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAABQwBMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-15T02:35:30.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CodeInspector.Api",
-              "DocumentMoniker": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
-              "RelativeDocumentMoniker": "CodeInspector.Api\\CodeInspector.Api.csproj",
-              "ToolTip": "C:\\Users\\Prem\\source\\repos\\premprakaash\\CodeInspector\\CodeInspector.Api\\CodeInspector.Api.csproj",
-              "RelativeToolTip": "CodeInspector.Api\\CodeInspector.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-15T02:32:59.912Z",
               "EditorCaption": ""
             }
           ]

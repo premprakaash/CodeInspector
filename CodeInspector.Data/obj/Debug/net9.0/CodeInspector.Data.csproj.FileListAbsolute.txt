@@ -1,0 +1,15 @@
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\bin\Debug\net9.0\CodeInspector.Data.deps.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\bin\Debug\net9.0\CodeInspector.Data.runtimeconfig.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\bin\Debug\net9.0\CodeInspector.Data.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\bin\Debug\net9.0\CodeInspector.Data.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.csproj.AssemblyReference.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.AssemblyInfoInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.AssemblyInfo.cs
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.csproj.CoreCompileInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.sourcelink.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\refint\CodeInspector.Data.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\CodeInspector.Data.genruntimeconfig.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Data\obj\Debug\net9.0\ref\CodeInspector.Data.dll

@@ -1,0 +1,16 @@
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\bin\Debug\net9.0\CodeInspector.Application.deps.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\bin\Debug\net9.0\CodeInspector.Application.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\bin\Debug\net9.0\CodeInspector.Application.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\bin\Debug\net9.0\CodeInspector.Data.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\bin\Debug\net9.0\CodeInspector.Data.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.csproj.AssemblyReference.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.AssemblyInfoInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.AssemblyInfo.cs
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.csproj.CoreCompileInputs.cache
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.sourcelink.json
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInsp.E2AEE221.Up2Date
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\refint\CodeInspector.Application.dll
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\CodeInspector.Application.pdb
+C:\Users\Prem\source\repos\premprakaash\CodeInspector\CodeInspector.Application\obj\Debug\net9.0\ref\CodeInspector.Application.dll
